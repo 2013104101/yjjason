@@ -33,7 +33,7 @@
 
 ### 3. 학과
 
-### 3.1 컴퓨터공학과
+### 3.1. [컴퓨터공학과](https://namu.wiki/w/컴퓨터공학과)
 
 ##### Department of Computer Science & Engineering
 
@@ -46,7 +46,7 @@
 ##### 2007 경희대학교 전자정보대학 컴퓨터공학과
 ##### 2018 경희대학교 소프트웨어융합대학 컴퓨터공학과
 
-### 3.2 소프트웨어 융합학과
+### 3.2. 소프트웨어 융합학과
 
 ##### Department of Software Convergence
 
